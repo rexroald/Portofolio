@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KelolaProfil">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+
+            <ImageView
+                android:id="@+id/imgKelProfil_LogoProfil"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:translationX="40dp"
+                android:translationY="15dp"
+                app:srcCompat="@drawable/logo_profil" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/txtKelProfil_Nama"
+                android:layout_width="172dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:ems="10"
+                android:textColor="@color/black"
+                android:enabled="false"
+                android:focusable="false"
+                android:hint="Nama Pengguna"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:textSize="20sp"
+                android:translationX="155dp"
+                android:translationY="-60dp"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ubah"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="70dp"
+                android:translationY="-65dp"
+                android:visibility="invisible" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Identitas Diri"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:translationX="40dp"
+                android:translationY="-25dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nama Lengkap"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-25dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/txtKelProfil_NamaLengkap"
+                android:layout_width="325dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_edittext"
+                android:ems="10"
+                android:hint="Masukkan nama lengkap"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:translationX="40dp"
+                android:translationY="-25dp"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jenis Kelamin"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-25dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <Spinner
+                android:id="@+id/spnKelProfil_JenisKelamin"
+                android:layout_width="325dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custom_edittext"
+                android:dropDownWidth="wrap_content"
+                android:minHeight="48dp"
+                android:paddingLeft="10dp"
+                android:translationX="40dp"
+                android:translationY="-25dp"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <ImageView
+                android:id="@+id/imgProfil_SpinnerJK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:translationX="330dp"
+                android:translationY="-60dp"
+                app:srcCompat="@drawable/ic_baseline_arrow_drop_down_24" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/textView39"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tanggal Lahir (Tgl/Bln/Thn)"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-50dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/txtKelProfil_TglLahir"
+                android:layout_width="325dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_edittext"
+                android:ems="10"
+                android:hint="Masukkan tanggal lahir"
+                android:inputType="date"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:translationX="40dp"
+                android:translationY="-50dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/textView40"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Umur"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-40dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/txtKelProfil_Umur"
+                android:layout_width="325dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_edittext"
+                android:ems="10"
+                android:hint="Masukkan umur"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:translationX="40dp"
+                android:translationY="-30dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/textView42"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pendidikan Terakhir"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-30dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <Spinner
+                android:id="@+id/spnKelProfil_Pendidikan"
+                android:layout_width="325dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custom_edittext"
+                android:dropDownWidth="wrap_content"
+                android:minHeight="48dp"
+                android:paddingLeft="10dp"
+                android:translationX="40dp"
+                android:translationY="-30dp"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <ImageView
+                android:id="@+id/imgProfil_SpinnerPK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:translationX="330dp"
+                android:translationY="-65dp"
+                app:srcCompat="@drawable/ic_baseline_arrow_drop_down_24" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/textView43"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Alamat Lengkap"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-55dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/txtKelProfil_Alamat"
+                android:layout_width="325dp"
+                android:layout_height="100dp"
+                android:background="@drawable/custom_edittext"
+                android:ems="10"
+                android:gravity="start|top"
+                android:hint="Masukkan alamat lengkap"
+                android:inputType="textMultiLine"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingRight="20dp"
+                android:translationX="40dp"
+                android:translationY="-55dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/textView44"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Keahlian"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-55dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/txtKelProfil_Keahlian"
+                android:layout_width="325dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_edittext"
+                android:ems="10"
+                android:hint="Masukkan keahlian"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:translationX="40dp"
+                android:translationY="-55dp"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/textView45"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pengalaman Kerja"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-55dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/txtKelProfil_PengalamanKerja"
+                android:layout_width="325dp"
+                android:layout_height="125dp"
+                android:background="@drawable/custom_edittext"
+                android:ems="10"
+                android:gravity="start|top"
+                android:hint="Masukkan pengalaman kerja"
+                android:inputType="textMultiLine"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingRight="20dp"
+                android:translationX="40dp"
+                android:translationY="-55dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/textView46"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kewarganegaraan"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:translationX="40dp"
+                android:translationY="-55dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <EditText
+                android:id="@+id/txtKelProfil_Kewarganegaraan"
+                android:layout_width="325dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_edittext"
+                android:ems="10"
+                android:hint="Masukkan kewarganegaraan"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:translationX="40dp"
+                android:translationY="-55dp"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
+
+            <Button
+                android:id="@+id/btnKelProfil_Simpan"
+                android:layout_width="99dp"
+                android:layout_height="52dp"
+                android:text="Simpan"
+                android:translationX="265dp"
+                android:translationY="-20dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.855"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.914" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
