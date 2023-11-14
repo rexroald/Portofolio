@@ -1,0 +1,81 @@
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\Toko_Souvenir.exe.config
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\Toko_Souvenir.exe
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\Toko_Souvenir.pdb
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\Toko_Souvenir.xml
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.vbproj.AssemblyReference.cache
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmSplashScreen.resources
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.Resources.resources
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.vbproj.GenerateResource.cache
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.vbproj.CoreCompileInputs.cache
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.exe
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.xml
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.pdb
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmLogin.resources
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.Shared.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\bin\Debug\stdole.dll
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.vbproj.CopyComplete
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmMain.resources
+D:\Data Kuliah\Semester 5\Pemrograman Visual\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmJenisBarang.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\Toko_Souvenir.exe.config
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\Toko_Souvenir.exe
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\Toko_Souvenir.pdb
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\Toko_Souvenir.xml
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\stdole.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.vbproj.AssemblyReference.cache
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmBarang.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmCariBarang.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmCariBarangBeli.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmEntryBarang.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmJenisBarang.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmLogin.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmMain.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmMerekBarang.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmPembelian.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmPenjualan.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmSplashScreen.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmUsers.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.Resources.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.vbproj.GenerateResource.cache
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.vbproj.CopyComplete
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.exe
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.xml
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.pdb
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmLaporanBarang.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmLaporanBarangCR.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmLaporanPembelian.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmLaporanPembelianPreview.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmLaporanPenjualan.resources
+C:\Users\Michael\Pictures\Toko_Souvenir\Toko_Souvenir\obj\Debug\Toko_Souvenir.frmLaporanPenjualanPreview.resources
